@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:checkableBehavior="single" android:title="       Semesters">
+        <menu>
+            <item
+                android:id="@+id/nav_sem1"
+                android:title="Semester 1" />
+            <item
+                android:id="@+id/nav_sem2"
+                android:title="Semester 2" />
+            <item
+                android:id="@+id/nav_sem3"
+                android:title="Semester 3" />
+            <item
+                android:id="@+id/nav_sem4"
+                android:title="Semester 4" />
+            <item
+                android:id="@+id/nav_sem5"
+                android:title="Semester 5" />
+            <item
+                android:id="@+id/nav_sem6"
+                android:title="Semester 6" />
+            <item
+                android:id="@+id/nav_sem7"
+                android:title="Semester 7" />
+            <item
+                android:id="@+id/nav_sem8"
+                android:title="Semester 8" />
+        </menu>
+    </item>
+
+</menu>
